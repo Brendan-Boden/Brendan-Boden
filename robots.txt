@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /prices1.php
+
+Sitemap: https://www.brendan-boden.com/sitemap.xml
